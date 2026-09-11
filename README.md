@@ -1,6 +1,7 @@
 # InstaClone Expo Prototype
 
 A complete first-pass Instagram clone prototype built with Expo and React Native.
+.apk : https://drive.google.com/file/d/1Ky4rHynXkjZXzJzxfEcjRhoAattFuQKS/view?usp=sharing
 
 ## Run
 
